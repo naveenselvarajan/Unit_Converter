@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="title_activity_energy">Energy activity</string>
+    <string-array name="energy_array_opt1">
+        <item>Jule</item>
+        <item>KiloJule</item>
+        <item>GramCalorie</item>
+        <item>KiloCalorie</item>
+        <item>WattHour</item>
+        <item>KilowattHour</item>
+        <item>electronVolt</item>
+    </string-array>
+    <string-array name="energy_array_opt2">
+        <item>Jule</item>
+        <item>KiloJule</item>
+        <item>GramCalorie</item>
+        <item>KiloCalorie</item>
+        <item>WattHour</item>
+        <item>KilowattHour</item>
+        <item>electronVolt</item>
+    </string-array>
+    <string name="title_activity_length">Length activity</string>
+
+    <string-array name="length_array_opt1">
+        <item>Metre</item>
+        <item>KiloMetre</item>
+        <item>Centimetre</item>
+        <item>Millimetre</item>
+        <item>Micrometre</item>
+        <item>Nanometre</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical Mile</item>
+    </string-array>
+    <string-array name="length_array_opt2">
+        <item>Metre</item>
+        <item>Kilometre</item>
+        <item>Centimetre</item>
+        <item>Millimetre</item>
+        <item>Micrometre</item>
+        <item>Nanometre</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical Mile</item>
+    </string-array>
+    <string-array name="pressure_array_opt1">
+        <item>Atmosphere</item>
+        <item>Bar</item>
+        <item>Pascal</item>
+        <item>Pound-Force/Sq.Inch</item>
+        <item>Torr</item>
+    </string-array>
+    <string-array name="pressure_array_opt2">
+        <item>Atmosphere</item>
+        <item>Bar</item>
+        <item>Pascal</item>
+        <item>Pound-Force/Sq.Inch</item>
+        <item>Torr</item>
+    </string-array>
+    <string-array name="angle_array_opt1">
+        <item>Angular mil</item>
+        <item>Degree</item>
+        <item>Gradian</item>
+        <item>Minuite of arc</item>
+        <item>Radian</item>
+        <item>Second of arc</item>
+    </string-array>
+    <string-array name="Angle_array_opt2">
+        <item>Angular mil</item>
+        <item>Degree</item>
+        <item>Gradian</item>
+        <item>Minuite of arc</item>
+        <item>Radian</item>
+        <item>Second of arc</item>
+    </string-array>
+    <string-array name="Temperature_array_opt1">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="Temperature_array_opt2">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="Mass_array_opt1">
+        <item>Tonne</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>Imperial ton</item>
+        <item>US ton</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+    <string-array name="Mass_array_opt2">
+        <item>Tonne</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Micrograms</item>
+        <item>Imperial ton</item>
+        <item>US ton</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+    <string-array name="Area_array_opt1">
+        <item>Square Meter</item>
+        <item>Square Kilometer</item>
+        <item>Square Mile</item>
+        <item>Square Yard</item>
+        <item>Square Foot</item>
+        <item>Square Inch</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+    <string-array name="Area_array_opt2">
+        <item>Square Meter</item>
+        <item>Square Kilometer</item>
+        <item>Square Mile</item>
+        <item>Square Yard</item>
+        <item>Square Foot</item>
+        <item>Square Inch</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+    <string-array name="Speed_array_opt1">
+        <item>Miles/hour</item>
+        <item>Foot/Second</item>
+        <item>Metre/second</item>
+        <item>Kilometre/hour</item>
+        <item>Knot</item>
+    </string-array>
+    <string-array name="Speed_array_opt2">
+        <item>Miles/hour</item>
+        <item>Foot/Second</item>
+        <item>Metre/second</item>
+        <item>Kilometre/hour</item>
+        <item>Knot</item>
+    </string-array>
+    <string-array name="Frequency_array_opt1">
+        <item>Hertz</item>
+        <item>Kilohertz</item>
+        <item>Megahertz</item>
+        <item>Gigahertz</item>
+    </string-array>
+    <string-array name="Frequency_array_opt2">
+        <item>Hertz</item>
+        <item>Kilohertz</item>
+        <item>Megahertz</item>
+        <item>Gigahertz</item>
+    </string-array>
+    <string-array name="Volume_array_opt1">
+        <item>US liquid gallon</item>
+        <item>US liquid quart</item>
+        <item>US liquid pint</item>
+        <item>US legal cup</item>
+        <item>US fluid ounce</item>
+        <item>US tablespoon</item>
+        <item>US teaspoon</item>
+        <item>Cubicmetre</item>
+        <item>Litre</item>
+        <item>MIllilitre</item>
+        <item>Imperial gallon</item>
+        <item>Imperial quart</item>
+        <item>Imperial pint</item>
+        <item>Imperial cup</item>
+        <item>Imperial fluid ounce</item>
+        <item>Imperial tableSpoon</item>
+        <item>Imperial teaspoon</item>
+        <item>Cubic foot</item>
+        <item>Cubic inch</item>
+    </string-array>
+    <string-array name="Volume_array_opt2">
+        <item>US liquid gallon</item>
+        <item>US liquid quart</item>
+        <item>US liquid pint</item>
+        <item>US legal cup</item>
+        <item>US fluid ounce</item>
+        <item>US tablespoon</item>
+        <item>US teaspoon</item>
+        <item>Cubic metre</item>
+        <item>Litre</item>
+        <item>Milli litre</item>
+        <item>Imperial gallon</item>
+        <item>Imperial quart</item>
+        <item>Imperial pint</item>
+        <item>Imperial cup</item>
+        <item>Imperial fluid ounce</item>
+        <item>Imperial tableSpoon</item>
+        <item>Imperial teaspoon</item>
+        <item>Cubic foot</item>
+        <item>Cubic inch</item>
+    </string-array>
+</resources>

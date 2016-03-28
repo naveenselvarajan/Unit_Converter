@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.naveedroid.naveen.unitconverter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Energy_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Energy_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Length_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Length_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Pressure_activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Pressure_activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Angle_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Angle_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".Temperature_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Temperature_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".Mass_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Mass_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Area_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Area_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Speed_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Speed_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Frequency_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Frequency_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Volume_Activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.naveedroid.naveen.unitconverter.Volume_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+
+</manifest>
